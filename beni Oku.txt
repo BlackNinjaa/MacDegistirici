@@ -1,0 +1,5 @@
+Kod Dosyasını indirip bulundugu klasöre gidip Çalıştırabilirisiniz !
+
+python da çalışmazsa python3 ile çalıştırınız
+
+Saygılarımla...
